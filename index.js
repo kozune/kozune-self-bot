@@ -1,5 +1,5 @@
 const Discord = require('discord.js-selfbot');
-const color = require("colors-2.0.0")
+const color = require("colors")
 const setTitle = require("console-title")
 const client = new Discord.Client();
 const MessageEmbed = require('discord.js').MessageEmbed;
